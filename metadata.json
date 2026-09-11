@@ -1,0 +1,6 @@
+{
+  "name": "Lantern & Glutinous Rice Word Conveyor Game",
+  "description": "An engaging primary school English learning game featuring an interactive conveyor belt to master 'lantern' and 'glutinous rice' with dual play modes, 4 speeds, real-time scoring, cheerful sound effects, and BGM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
